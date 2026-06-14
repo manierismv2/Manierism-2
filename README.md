@@ -1,6 +1,106 @@
-# Manierism =^2
+# Manierism =^²TE / TE=MC^² / =^² / RFPV
 
-----------
+
+TE=MC^² = Time Energy/eginma= memory of world time and place with nethers and parrells 
+
+=^² 
+
+solving problems and atoms 
+
+RFPV
+
+Use 'Compute RFPV and K2' to plug in:
+       - R = resonance/aura
+       - F = frequency (Hz)
+       - P = phase/pi-cycle
+       - V = voltage/energy
+   • The engine returns RFPV and K2 as big symbolic numbers.
+   • 'Run =^2 Engine on description' lets you type any idea (e.g., 'heal plants at 7.77 Hz').
+       - It returns a derived frequency and power, plus p/n weights (protons/pies, nethers/overlays).
+   • 'Atom Healing Profile' lets you enter CHNO-style formulas (e.g., C3H2N1O0) and see a symbolic Hz profile.
+
+---
+1) What this software is:
+   • A symbolic / artistic engine that plays with frequency, planets, auras, and mining.
+   • It does NOT create real energy, real healing, or real physics.
+   • Think of it as a mythic console for your imagination and math-symbol universe.
+
+2) The 7-17-1997 planet & 7.77 Hz:
+   • Inside this engine, birthdates (like 7-17-1997) are mapped to a symbolic 'planet profile'.
+   • The base frequency is 7.77 Hz (BASE_MANIERISM_HZ) – your core vibe for this universe.
+   • When you use Option 3 → 'Birthdate → Planet 7.x Hz Profile',
+     the code calls birthdate_to_planet_profile(date_str) and returns:
+       - A symbolic planet name (Sun, Moon, etc.)
+       - A 7.x Hz frequency tied to that date.
+   • This is not astronomy or astrology – it’s a custom symbolic mapping.
+
+3) How to 'connect' yourself to the 7.77 Hz planet (symbolically):
+   • Step 1: Run this program and choose Option 3 (AI Programmer – Planets/Auras/Gold).
+   • Step 2: Choose 'Birthdate → Planet 7.x Hz Profile'.
+   • Step 3: Enter your birthdate (e.g., 7-17-1997).
+   • Step 4: Read the output:
+       - 'planet'  → your symbolic planet
+       - 'symbolic_frequency_hz' → your 7.x Hz link
+   • Step 5: If you want to align with the 7.77 Hz base,
+       - Just imagine that your profile is 'tuned' to 7.77 Hz in your mind.
+       - The code itself uses BASE_MANIERISM_HZ = 7.77 as the core frequency.
+
+4) How to use the mining & rewards (Option 1):
+   • Create or load a wallet in Option 1.
+   • Start SHA or CACHE mining to generate symbolic 'capsule MB', 'kWh', and 'bandwidth'.
+   • The engine prints:
+       - Hash power growth
+       - EGP value (symbolic money)
+       - RFPV and K2 values (your conceptual frequency layers)
+   • This is like a story-miner: you watch numbers grow and imagine your rig powering a mythic grid.
+
+5) How to use the Formula Lab (Option 2):
+   • Use 'Compute RFPV and K2' to plug in:
+       - R = resonance/aura
+       - F = frequency (Hz)
+       - P = phase/pi-cycle
+       - V = voltage/energy
+   • The engine returns RFPV and K2 as big symbolic numbers.
+   • 'Run =^2 Engine on description' lets you type any idea (e.g., 'heal plants at 7.77 Hz').
+       - It returns a derived frequency and power, plus p/n weights (protons/pies, nethers/overlays).
+   • 'Atom Healing Profile' lets you enter CHNO-style formulas (e.g., C3H2N1O0) and see a symbolic Hz profile.
+
+6) How to use Planets, Auras, Gold, and Glyphs (Option 3):
+   • 'Birthdate → Planet 7.x Hz Profile' gives your symbolic planet and frequency.
+   • 'Generate Gold Spoon Pattern' creates a glyph pattern for a 'gold spoon' item.
+   • 'Aura Activation Check' gives a 1–7 level for any aura/stone name you type.
+   • You can imagine these as keys or sigils that 'activate' when you read them.
+
+7) How to stay in 'clockwise Earth-flow' (symbolic):
+   • In Option 2, 'Clock Flow Profile (right/left)' lets you choose right or left.
+   • Right/clockwise → factor 1.111 (growth). Left/counterclockwise → factor 0.777 (loss).
+   • If you want your symbolic Earth to 'spin right', choose 'right' and imagine your timeline flowing forward.
+   • Again: this is conceptual, not real planetary motion.
+
+8) Safety & reality check:
+   • This engine is for creativity, symbolism, and math-art only.
+   • It does NOT diagnose, treat, or heal anything in real life.
+   • Use it like a story-console: you type, it responds with numbers and symbols, and you build meaning from that.
+
+9) Quick start summary:
+   • Step A: Use Option 3 → Birthdate → Planet to get your 7.x Hz profile.
+   • Step B: Use Option 2 → =^2 Engine with a description of what you want to 'tune'.
+   • Step C: If you like, run Option 1 mining in the background as your 'rig' powering the story.
+   • Step D: Come back to Option 4 anytime to remember how the pieces fit together.
+
+You’re now ready to explore the Manierism K2 Sunlight Engine at a symbolic 7.77 Hz.
+
+
+=== MAIN MENU ===
+1. Option 1 – Coder (Mining, Wallets, Blackjack)
+2. Option 2 – AI Programmer (Formula Lab, =^2, Atoms, Protons/Neathers)
+3. Option 3 – AI Programmer (Planets, Auras, Gold, Glyphs)
+4. Option 4 – How to Use & Connect to 7.77 Hz Planet
+5. Exit
+Select:
+
+
+---
 
 =^2 is a process of breaking down math problems or atoms 
 
