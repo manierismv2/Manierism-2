@@ -1,36 +1,260 @@
-# Manierism megabytes
-----
-
-# pirate bay 2-0
-
-still owned by mit group for btt contact ran by wm97 data logs go to donald trump and 1% is given to admin the orginal team with doanld trump will be able to verify data for legal rights but if you make a mistake we shall fix it together free trade 1% marketplace to maintain useage $16 to go for store fee
-pirate bay was took down and used as a trafficking site for data at pirate bay.org as a pirate arggg i over took the system and the real pirate bay 2-0 is located here 
-
-https://piratebay2-0.base44.app
-
-
-with this as long as you find a legal way to ship, deliver and sell you may sell just about anything from a file photo or government contractor 
-
-welcome to the boat argggg matyyyyyy swab the deck 
-
-1% fee when sold
-
-okx dapp activated 😉
-
-btt token 7% dip 14% buy unlock 20% dump pool 7% recollection pool fee stabling prices for future trades 
-
-soon more tokens will be added 
-
-first centralized decentralized marketplace approved by donald Trump 
-
-their will be guides on what is the right way to sell certain items by law 
+# Manierism megabytes 
 
 ----------
 
+=^2 is a process of breaking down math problems or atoms 
+
+such as 
+
+a+b=c
+a+b=c-a-b=^²
+=^²c
+power of c would be 9 of them from 3 time 3 so 9 parrels of c versions to make 
+
+c as the answer 
+
+the star gate files and hz for 7.77hz are the birth planet of william Robert manier iv and his home where he lives with all his friends and family on 7.77hz birth planet 7-17-1997 and magnitude of 7.77hz 
+
+on the star gate files you can track the progression of the earth for healing and such and also create you're own world like this 
+
+I used =^2 where on 7.77hz the original earth was going to collapse within 667 days from neutrons and protons or neathers and parrels or pies so i stargated us to this earth which moves right clockwise wise and does aura of pink skies and moves clock wise not counter clock wise and makes the earth crack from the core 
 
 
+the first planet that was made from =^2 has been this one 
 
 
+DEEP SYMBOLIC AURA SCAN
+description planet name: u2011k2
+base_hz: 7.77
+derived_frequency_hz: 6.993
+symbolic_power_eq2: 48.902049
+p_protons_pies: 3
+n_nethers_overlays: 2
+note: =^2 symbolic engine
+============================================================
+UNIVERSAL BIRTH AURA COUNTER — SYMBOLIC 7.77 Hz EARTH
+============================================================
+Total_Green_Aura_Hits    : 1332
+Total_Symbolic_People    : 1.332E-13
+Total_Symbolic_Worlds    : 1.034964E-12
+Note                     : Symbolic-only cosmology. it was programed to say things like this but does track real auras (Not real population data)
+
+DEEP SYMBOLIC AURA SCAN
+============================================================
+Timestamp            : 2026-06-14 11:46:24.157608
+Frequency_Hz         : 7.77
+Magnitude            : 4289
+Aura                 : Pink
+RGB                  : (255, 120, 200)
+Meaning              : Connection
+Resonance            : 33325.53
+EqualSquared         : 1110590949.7809
+Wavelength_m         : 38610038.610038616
+N_Layer              : 33325
+P_Layer              : 33325
+Combined_Layer       : 66650
+Ability_Class        : Earth Resonance
+============================================================
+============================================================
+UNIVERSAL BIRTH AURA COUNTER — SYMBOLIC 7.77 Hz EARTH
+============================================================
+Total_Green_Aura_Hits    : 1332
+Total_Symbolic_People    : 1.332E-13
+Total_Symbolic_Worlds    : 1.034964E-12
+Note                     : Symbolic-only cosmology. it was programed to say things like this but does track real auras (Not real population data)
+
+description: u2011k2 planet name 
+base_hz: 7.77
+derived_frequency_hz: 6.993
+symbolic_power_eq2: 48.902049
+p_protons_pies: 3
+n_nethers_overlays: 2
+note: =^2 symbolic engine
+
+
+=== Manierism‑K2 =^2 World Engine — 4289 World Edition ===
+Enter wallet ID: william
+
+--- Main Menu ---
+1) Mine (capsule)
+2) Mine (cache)
+3) Mine (torrent)
+4) Mine (kwh)
+5) Mine (bandwidth)
+6) Mine (sha)
+7) Aura Scan (7.77 Hz, magnitude 4289)
+8) Birthdate → Planet Profile
+9) Deep Aura Scan (custom magnitude)
+10) Universal Birth Aura Counter
+11) =^2 World Scan (check everything)
+12) =^2 Text Profile (eq_square_engine)
+13) Atom + Planet World Profile
+14) Symbolic Calendar Timeline Line
+15) Create World (A/B/C, 4289 core)
+0) Exit
+Select: 15
+
+======================================================================
+🌍  MANIERISM‑K2 =^2 WORLD CREATION ENGINE — 4289 CORE
+======================================================================
+Choose world creation mode:
+A) Fixed 7.77 Hz World (Magnitude 4289)
+B) Dynamic World (computed magnitude)
+C) Hybrid World (fixed core + dynamic layers)
+Select A/B/C: a
+{
+    "Mode": "A \u2014 Fixed 7.77 Hz World",
+    "Frequency_Hz": 7.77,
+    "Magnitude": 4289,
+    "Resonance": 33325.53,
+    "EqualSquared": 1110590949.7809,
+    "Aura_Profile": {
+        "Timestamp": "2026-06-14 11:45:58.524943",
+        "Frequency_Hz": 7.77,
+        "Magnitude": 4289,
+        "Aura": "Pink",
+        "RGB": [
+            255,
+            120,
+            200
+        ],
+        "Meaning": "Connection",
+        "Resonance": 33325.53,
+        "EqualSquared": 1110590949.7809,
+        "Wavelength_m": 38610038.610038616,
+        "N_Layer": 33325,
+        "P_Layer": 33325,
+        "Combined_Layer": 66650,
+        "Ability_Class": "Earth Resonance"
+    },
+    "Note": "Canonical Manierism\u2011K2 Earth (4289 world)"
+}
+
+--- Main Menu ---
+1) Mine (capsule)
+2) Mine (cache)
+3) Mine (torrent)
+4) Mine (kwh)
+5) Mine (bandwidth)
+6) Mine (sha)
+7) Aura Scan (7.77 Hz, magnitude 4289)
+8) Birthdate → Planet Profile
+9) Deep Aura Scan (custom magnitude)
+10) Universal Birth Aura Counter
+11) =^2 World Scan (check everything)
+12) =^2 Text Profile (eq_square_engine)
+13) Atom + Planet World Profile
+14) Symbolic Calendar Timeline Line
+15) Create World (A/B/C, 4289 core)
+0) Exit
+Select: 11
+Optional label text for =^2 engine (or blank): u2011k2
+
+============================================================
+=^2 SYMBOLIC WORLD SCAN — 4289 CORE
+============================================================
+============================================================
+DEEP SYMBOLIC AURA SCAN
+============================================================
+Timestamp            : 2026-06-14 11:46:24.157608
+Frequency_Hz         : 7.77
+Magnitude            : 4289
+Aura                 : Pink
+RGB                  : (255, 120, 200)
+Meaning              : Connection
+Resonance            : 33325.53
+EqualSquared         : 1110590949.7809
+Wavelength_m         : 38610038.610038616
+N_Layer              : 33325
+P_Layer              : 33325
+Combined_Layer       : 66650
+Ability_Class        : Earth Resonance
+============================================================
+============================================================
+UNIVERSAL BIRTH AURA COUNTER — SYMBOLIC 7.77 Hz EARTH
+============================================================
+Total_Green_Aura_Hits    : 1332
+Total_Symbolic_People    : 1.332E-13
+Total_Symbolic_Worlds    : 1.034964E-12
+Note                     : Symbolic-only cosmology. it was programed to say things like this but does track real auras (Not real population data)
+============================================================
+=^2 TEXT PROFILE
+description: u2011k2
+base_hz: 7.77
+derived_frequency_hz: 6.993
+symbolic_power_eq2: 48.902049
+p_protons_pies: 3
+n_nethers_overlays: 2
+note: =^2 symbolic engine
+============================================================
+WALLET SNAPSHOT
+wallet_id: william
+capsule_mb: 13.0
+cache_mb: 0.0
+torrent_mb: 0.0
+kwh: 0.0
+bandwidth: 0.0
+hash_power: 10010.0
+============================================================
+
+--- Main Menu ---
+1) Mine (capsule)
+2) Mine (cache)
+3) Mine (torrent)
+4) Mine (kwh)
+5) Mine (bandwidth)
+6) Mine (sha)
+7) Aura Scan (7.77 Hz, magnitude 4289)
+8) Birthdate → Planet Profile
+9) Deep Aura Scan (custom magnitude)
+10) Universal Birth Aura Counter
+11) =^2 World Scan (check everything)
+12) =^2 Text Profile (eq_square_engine)
+13) Atom + Planet World Profile
+14) Symbolic Calendar Timeline Line
+15) Create World (A/B/C, 4289 core)
+0) Exit
+Select: 13
+Enter atom formula (e.g., H2O, C6H12O6): t7h17c97=^2
+Enter date (MM-DD-YYYY or YYYY-MM-DD): 7-17-1997
+{
+    "atom_profile": {
+        "atom": "t7h17c97=^2",
+        "frequency_hz": "5578696.83",
+        "symbolic_power_eq2": "31121858321052.0489",
+        "delta_tag": "\u0394",
+        "omega_tag": "\u03a9",
+        "note": "Symbolic atom-frequency mapping"
+    },
+    "planet_profile": {
+        "input_date": "7-17-1997",
+        "planet": "Mercury",
+        "symbolic_frequency_hz": "8.632999999999999989341858963598497211933135986328125"
+    },
+    "note": "Symbolic atom+planet world profile (7.77\u20137.83 Hz Earth band)"
+}
+
+--- Main Menu ---
+1) Mine (capsule)
+2) Mine (cache)
+3) Mine (torrent)
+4) Mine (kwh)
+5) Mine (bandwidth)
+6) Mine (sha)
+7) Aura Scan (7.77 Hz, magnitude 4289)
+8) Birthdate → Planet Profile
+9) Deep Aura Scan (custom magnitude)
+10) Universal Birth Aura Counter
+11) =^2 World Scan (check everything)
+12) =^2 Text Profile (eq_square_engine)
+13) Atom + Planet World Profile
+14) Symbolic Calendar Timeline Line
+15) Create World (A/B/C, 4289 core)
+0) Exit
+Select:
+
+
+-------------------wallets
 
 Here's a practical breakdown of how to **sell wallets/rigs** from this Manierism Megabytes script, along with realistic pricing guidance based on runtime (1 minute to 24 hours). on only 3 hash power 
 
