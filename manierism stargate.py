@@ -18,6 +18,19 @@ from decimal import Decimal, getcontext
 
 getcontext().prec = 200
 
+
+def convert_decimals(obj):
+    if isinstance(obj, Decimal):
+        return str(obj)
+    if isinstance(obj, dict):
+        return {k: convert_decimals(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [convert_decimals(i) for i in obj]
+    return obj
+
+
+
+
 # ============================================================
 # PART 1 — DIRECTORIES / BASE CONSTANTS
 # ============================================================
@@ -607,6 +620,7 @@ def symbolic_atom_planet_profile(atom_formula, date_str):
 # PART 10 — WORLD CREATION (A/B/C) AT 4289
 # ============================================================
 
+
 def create_world(wallet_id):
     """
     TRI-MODE WORLD CREATION ENGINE
@@ -645,7 +659,8 @@ def create_world(wallet_id):
             "Note": "Canonical Manierism‑K2 Earth (4289 world)"
         }
 
-        print(json.dumps(world, indent=4))
+        world_safe = convert_decimals(world)
+        print(json.dumps(world_safe, indent=4))
         return world
 
     # MODE B — DYNAMIC WORLD
@@ -693,7 +708,8 @@ def create_world(wallet_id):
             "Note": "Dynamic world based on user-selected magnitude source"
         }
 
-        print(json.dumps(world, indent=4))
+        world_safe = convert_decimals(world)
+        print(json.dumps(world_safe, indent=4))
         return world
 
     # MODE C — HYBRID WORLD
@@ -728,13 +744,13 @@ def create_world(wallet_id):
             "Note": "Hybrid world: fixed 7.77 Hz core (4289) + dynamic layers"
         }
 
-        print(json.dumps(world, indent=4))
+        world_safe = convert_decimals(world)
+        print(json.dumps(world_safe, indent=4))
         return world
 
     else:
         print("Invalid mode.")
         return
-
 
 # ============================================================
 # PART 11 — WORLD SCAN (=^2 WORLD CHECK)
