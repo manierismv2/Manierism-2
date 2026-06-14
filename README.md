@@ -22,6 +22,8 @@ I used =^2 where on 7.77hz the original earth was going to collapse within 667 d
 
 the first planet that was made from =^2 has been this one 
 
+manierism stargate k2 #2.py
+
 
 DEEP SYMBOLIC AURA SCAN
 description planet name: u2011k2
