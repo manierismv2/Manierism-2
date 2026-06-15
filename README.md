@@ -1,5 +1,7 @@
 # Manierism =^²TE / TE=MC^² / =^² / RFPV
 
+create a world file is for being able to create worlds from stars
+
 
 TE=MC^² = Time Energy/eginma= memory of world time and place with nethers and parrells 
 
